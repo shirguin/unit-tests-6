@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d5244a5c-8051-4035-8ca6-6e35aff70e1e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/СomparisonAverageValuesOfLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit-tests-6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_jupiter_api_5_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_jupiter_params_5_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mockito_core_5_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/СomparisonAverageValuesOfListsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unit-tests-6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/unit-tests-6.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -39,10 +42,25 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Java/unit-tests-6"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "last_opened_file_path": "D:/Java/unit-tests-4 (Код семинара)/libs/junit-platform-commons-1.9.1.jar",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.СomparisonAverageValuesOfListsTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="unit-tests-6" />
@@ -50,8 +68,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="СomparisonAverageValuesOfListsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unit-tests-6" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="СomparisonAverageValuesOfListsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.СomparisonAverageValuesOfListsTest" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
